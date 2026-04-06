@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-vscode.cpptools",
+    "vadimcn.vscode-lldb",
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ms-vscode.makefile-tools"
+  ]
+}
