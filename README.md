@@ -11,3 +11,9 @@ A dual-language repository for mastering algorithms.
    source .venv/bin/activate
    pip install -r requirements.txt
 3. **Open in VS Code**: code . (Install recommended extensions when prompted).
+
+## Run C
+```bash
+make 
+./bin/01_sorting/selection_sort
+```
